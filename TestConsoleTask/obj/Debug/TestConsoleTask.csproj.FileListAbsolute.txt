@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\TestConsoleTask\TestConsoleTask\obj\Debug\TestConsoleTask.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TestConsoleTask\TestConsoleTask\obj\Debug\TestConsoleTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TestConsoleTask\TestConsoleTask\bin\Debug\TestConsoleTask.exe.config
+C:\Users\User\source\repos\TestConsoleTask\TestConsoleTask\bin\Debug\TestConsoleTask.exe
+C:\Users\User\source\repos\TestConsoleTask\TestConsoleTask\bin\Debug\TestConsoleTask.pdb
+C:\Users\User\source\repos\TestConsoleTask\TestConsoleTask\obj\Debug\TestConsoleTask.exe
+C:\Users\User\source\repos\TestConsoleTask\TestConsoleTask\obj\Debug\TestConsoleTask.pdb
